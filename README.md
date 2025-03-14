@@ -20,10 +20,3 @@ Perfect for beginners looking to strengthen their NumPy skills and build a stron
 📌 Hands-on exercises with NumPy  
 
 💡 **Dive into the code and start mastering NumPy!** 🔥  
-
----
-
-📢 **Getting Started**  
-To follow along, install NumPy using:  
-```bash
-pip install numpy
